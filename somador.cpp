@@ -16,4 +16,3 @@ int somador(int limite){
 	}
 	return soma;
 }
-
